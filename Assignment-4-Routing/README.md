@@ -1,7 +1,7 @@
 How to Start a Router:
-The code to start a router is in start_router.py. For example, run the following commands in 3 separate terminals will start 3 routers:
-python start_router.py config/small-1
-python start_router.py config/small-2
+The code to start a router is in start_router.py. For example, run the following commands in 3 separate terminals will start 3 routers:  
+python start_router.py config/small-1  
+python start_router.py config/small-2  
 python start_router.py config/small-3
 
 Test Case 1: Small Network
